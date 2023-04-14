@@ -65,6 +65,12 @@ Se verifican los requisitos previos
 
 Se crea un snapshots a la maquina y se hace un clon vinculado a dicha maquina
 
+![snapshots](https://github.com/edierbra/free5GC_instalacion/blob/main/images/snapshots.png?raw=true)
+
+![snapshots](https://github.com/edierbra/free5GC_instalacion/blob/main/images/clone.png?raw=true)
+
+![snapshots](https://github.com/edierbra/free5GC_instalacion/blob/main/images/clone2.png?raw=true)
+
 
 
 
